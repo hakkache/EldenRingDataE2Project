@@ -1,6 +1,6 @@
-# Elden Ring Data End-to-End Project
+# Elden Ring Data End-to-End Project (> **Status:** 🚧 Work in Progress)
 
-> **Status:** 🚧 Work in Progress
+![Elden Ring](https://jeuxpourtous.org/wp-content/uploads/2022/09/Le-jeu-de-societe-Elden-Ring-est-officiellement-annonce.jpg)
 
 **Playing Elden Ring with Data - A Different Way to Experience the Lands Between**
 
@@ -95,19 +95,19 @@ EldenRingDataE2Project/
   - Cross-reference and improve data quality
 
 ### Main Entities (15 core files)
-- **Weapons** (402 items) + Upgrades (60,201 records)
-- **Shields** (100 items) + Upgrades (28,286 records)
-- **Armors** (723 pieces)
-- **Bosses** (153 bosses)
-- **Creatures** (205 creatures)
-- **Locations** (286 locations)
-- **NPCs** (109 characters)
-- **Sorceries** (84 spells)
-- **Incantations** (129 spells)
-- **Talismans** (155 items)
-- **Skills** (257 skills)
-- **Spirit Ashes** (84 summons)
-- **Ashes of War** (117 items)
+- **Weapons** 
+- **Shields** 
+- **Armors** 
+- **Bosses** 
+- **Creatures** 
+- **Locations** 
+- **NPCs** 
+- **Sorceries** 
+- **Incantations** 
+- **Talismans** 
+- **Skills** 
+- **Spirit Ashes** 
+- **Ashes of War** 
 
 ### Item Categories (13 files)
 Ammos, Bells, Consumables, Cookbooks, Crystal Tears, Great Runes, Key Items, Materials, Multi-use Items, Remembrances, Tools, Upgrade Materials, Whetblades
