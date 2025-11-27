@@ -161,17 +161,17 @@ Ammos, Bells, Consumables, Cookbooks, Crystal Tears, Great Runes, Key Items, Mat
 3. **Import notebooks** to your Databricks workspace
 4. **Create a cluster** (free tier allows up to 15GB memory)
 5. **Run notebooks** in the following order:
-   - BRONZE_LAYER.ipynb
-   - SILVER_LAYER.ipynb
-   - GOLD_LAYER.ipynb
-   - ANALYTICS QUERIES.ipynb (IN PROGRESS)
+   - [BRONZE_LAYER.ipynb](Notebooks/BRONZE_LAYER.ipynb)
+   - [SILVER_LAYER.ipynb](Notebooks/SILVER_LAYER.ipynb)
+   - [GOLD_LAYER.ipynb](Notebooks/GOLD_LAYER.ipynb)
+   - [ANALYTICS QUERIES.ipynb](Notebooks/ANALYTICS%20QUERIES.ipynb) (IN PROGRESS)
 
 ### Running the Pipeline on Databricks
 
-1. **BRONZE_LAYER.ipynb**: Ingest raw CSV data into Delta tables
-2. **SILVER_LAYER.ipynb**: Clean and transform data with PySpark
-3. **GOLD_LAYER.ipynb**: Create dimensional models and aggregations
-4. **ANALYTICS QUERIES.ipynb**: Run analysis queries and prepare for dashboards
+1. **[BRONZE_LAYER.ipynb](Notebooks/BRONZE_LAYER.ipynb)**: Ingest raw CSV data into Delta tables
+2. **[SILVER_LAYER.ipynb](Notebooks/SILVER_LAYER.ipynb)**: Clean and transform data with PySpark
+3. **[GOLD_LAYER.ipynb](Notebooks/GOLD_LAYER.ipynb)**: Create dimensional models and aggregations
+4. **[ANALYTICS QUERIES.ipynb](Notebooks/ANALYTICS%20QUERIES.ipynb)**: Run analysis queries and prepare for dashboards
 
 ## 📝 Data Quality Issues & Solutions
 
