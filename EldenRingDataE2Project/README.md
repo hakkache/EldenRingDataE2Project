@@ -235,7 +235,6 @@ Ammos, Bells, Consumables, Cookbooks, Crystal Tears, Great Runes, Key Items, Mat
 **Phase 3: Future Roadmap**
 - 📋 Web scraping from Elden Ring Wiki (fextralife)
 - 📋 Data validation and enrichment
-- 📋 Real-time dashboard updates
 - 📋 Machine learning models for build recommendations
 
 ## 📚 Documentation
